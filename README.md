@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-2025 Undergraduate from Seattle Pacific University with a double major in Ecology and Honors liberal Arts, and a minor in Data Analytics.
+2025 Undergraduate from Seattle Pacific University with a double major in Ecology and Honors Liberal Arts, and a minor in Data Analytics.
 <!--
 **LaineyMendoza/LaineyMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
